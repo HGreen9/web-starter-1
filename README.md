@@ -1,9 +1,4 @@
-# Web Starter
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ewuweblab/web-starter)
-
-
-> Computers are dumb. Humans make them smart.
+# Putting it all together
 
 Starter (boilerplate) for all future projects.
 
@@ -11,3 +6,9 @@ Starter (boilerplate) for all future projects.
 * Don't start with nothing
 * Common boilerplate for web projects
 * I am a human being who makes mistakes
+
+## citations
+*[Text to be shown] (url)
+*[Google Fonts] (https://fonts.google.com)
+*[CodePen] (https://codepen.io)
+*[Blush] (https://blush.design)
